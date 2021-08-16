@@ -1,0 +1,41 @@
+
+body {
+    background-color: #ffafcc;
+            }
+    table, th, td {
+      border: 5px solid black;
+      border-collapse: collapse;
+      border-color: #080808;
+    }
+    th, td {
+      padding: 15px;
+    }
+    th {
+      text-align: center;
+      font-size: medium;
+      font-weight: 15em;
+    }
+    td {
+        text-align: center;
+        font-size: medium;
+        font-weight: bolder;
+    }
+    table {
+      border-spacing: 5px;
+      object-position: center;
+    }
+    .places {
+        display: flex;
+        flex: 1;
+        font-size: 13px;
+    }
+    .place1 {
+      flex: 1;
+    }
+    .place2 {
+      flex: 1;
+    } 
+    .place3 {
+      flex: 1;
+    }
+    
